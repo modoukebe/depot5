@@ -1,1 +1,1 @@
-web: Voila --port=$PORT --no-browser=True --enable_nbextensions=True notebooks/geemap.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True SODAGRI.ipynb
