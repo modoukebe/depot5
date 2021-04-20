@@ -5,4 +5,4 @@ geemap
 requests==2.25.1
 idna==2.8
 geopandas==0.9.0
-fiona
+fiona==1.8.19
