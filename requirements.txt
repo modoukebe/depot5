@@ -3,7 +3,7 @@ earthengine-api
 voila
 geemap
 requests==2.25.1
-idna
+idna==3.1
 geopandas
 fiona
 descartes
