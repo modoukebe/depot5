@@ -3,7 +3,8 @@ earthengine-api
 voila
 geemap
 requests==2.25.1
-idna==2.5
+idna>=2.8
 folium==0.12.1
 git+git://github.com/geopandas/geopandas.git
 geopandas==0.9.0
+--use-feature=2020-resolver
