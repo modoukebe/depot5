@@ -1,5 +1,4 @@
 pip==21.0.1
---use-feature=2020-resolver
 earthengine-api 
 voila
 geemap
