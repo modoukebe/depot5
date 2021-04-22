@@ -4,6 +4,6 @@ voila
 geemap
 requests==2.25.1
 idna==2.5
-folium
+folium==0.12.1
 git+git://github.com/geopandas/geopandas.git
 geopandas==0.9.0
