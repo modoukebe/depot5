@@ -1,7 +1,4 @@
 pip==21.0.1
-
-
-
 bqplot==0.12.26
 descartes==1.1.0
 earthengine-api==0.1.260
