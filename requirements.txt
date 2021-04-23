@@ -2,7 +2,7 @@ pip==21.0.1
 earthengine-api 
 voila
 geemap
-geopandas==0.9.0
-folium==0.12.1
+geopandas
+folium
 requests==2.25.1
 idna>=2.8
